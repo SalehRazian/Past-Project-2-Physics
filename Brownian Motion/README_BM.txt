@@ -1,0 +1,3 @@
+General: It was a general project that which I incorperated it in some Art work later on. The goal was to create a simple model.
+
+Specific: I treatead each particle as a point on a graph. Given each particle a random direction in the plane and a random magnitude. Every value is given a max and min possible which could be modified with some knowledge of air pressure within the given model. In addition, the values can be manipulated to give a stronger directional force that will make the particles fly to one side of the plane.

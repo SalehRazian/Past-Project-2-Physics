@@ -1,0 +1,1 @@
+This section contains some code that models some physical phenomena, namely, brownian motion and double-slit experiment.
